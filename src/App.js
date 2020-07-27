@@ -7,7 +7,7 @@ function IntroText() {
       <h2>Submit An Email to Papa Roach</h2>
 
       <p>
-        We at Papa Roach the Band LLC take your comments about our music
+        hi! We at Papa Roach the Band LLC take your comments about our music
         seriously. Please submit a detailed message and one of our customer
         service team members will respond within two business days.
       </p>
